@@ -1,2 +1,17 @@
-# interactive-quiz-app-
-An interactive quiz app for ChatGPT that turns learning into a fun, personalized challenge. Users can choose a topic, difficulty level, and quiz style, then answer questions with instant feedback, explanations, scoring, and progress tracking. The app adapts to each user’s performance, making it useful for studying
+# Interactive Quiz Application
+
+A simple terminal quiz that asks multiple-choice questions, checks answers, and displays a final score and percentage.
+
+## Run
+```bash
+python3 main.py
+```
+
+## Concepts practiced
+- Lists and dictionaries
+- Loops and conditionals
+- User input and score tracking
+- Functions
+
+## Possible improvements
+Add categories, a timer, more questions, or a graphical interface.
